@@ -13,7 +13,7 @@ Animator Setup: Attach the provided Animator Controller to your character.
 Script Integration: Add the AnimationHandler script to your character and link the Animator component.
 
 Video Guide:
-Check out our YouTube video for a step-by-step setup tutorial. #
+Check out our YouTube video for a step-by-step setup tutorial : https://youtu.be/iAfVStAtnuc
 
 
 
